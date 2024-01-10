@@ -16,13 +16,10 @@ The first player to reach the 100th position on the board wins the game.
 - Simple command-line interface.
 - Ladders and snakes that change player positions.
 
-## Requirements
-Java 8 or higher.
+## Installation
+To run this application, ensure you have Java installed on your system. Clone the repository, navigate to the source directory, and run the main Java file.
 
-## Setup and Execution
-Clone the repository or download the source code.
-Compile the Java files:
+## Contributing
+This project was developed as part of an academic assignment. While it is not open for contributions, feedback and suggestions are always welcome.
 
-```bash
-javac LadderAndSnake.java
-javac Main.java
+
